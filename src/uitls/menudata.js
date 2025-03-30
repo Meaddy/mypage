@@ -3,7 +3,7 @@ export default [
     {
         id: 'th06',
         name: '东方红魔乡',
-        expanded: true,
+        expanded: false,
         children: [
             { id: 'reimu', name: '博丽灵梦', contentId: 'reimu' },
             { id: 'marisa', name: '雾雨魔理沙', contentId: 'marisa' },
